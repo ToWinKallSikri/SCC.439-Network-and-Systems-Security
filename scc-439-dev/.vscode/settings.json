@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./station",
+        "./tester/labs/2",
+        "./station/3",
+        "./tester/labs/5",
+        "./station/6",
+        "./station",
+        "./station",
+        "./station/components"
+    ]
+}
