@@ -6,4 +6,4 @@ NIDS client (nids.py) and SIEM server (siem_server.py) with mutual CHAP auth and
 
 ## SCC.439 Whitepaper
 
-White paper on maritime sector, from a netwokr security poin of view integrating Cyber Informed Engieneering notions.
+White paper on maritime sector, from a network security poinr of view, integrating Cyber Informed Engieneering conecpts.
